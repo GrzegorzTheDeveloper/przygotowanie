@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace gemini.Controllers;
 [ApiController]
-[Route("api/[controller]")]
+[Route("api/characters")]
 public class DbController : ControllerBase
 {
     private readonly IDbService _dbService;

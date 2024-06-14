@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FOuwSGCKWKb7uGSNNjMyca4TK+xWZxTt0jpRKMtUaGHjzb5c9GrQgtt4gJeGAGF5uekOt6dA8h6oG8FFzZ4I1Q==",
+  "dgSpecHash": "vYiv7p76xL6HHBfSihG7zVCrumaBq7sJcUpKrZtZRTKtI9/wxI1Sl/9xPk0IJuKx0D9C5H/ChB67b75GvcZg1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grzes\\Desktop\\Zadanie10\\gemini\\gemini\\gemini.csproj",
+  "projectFilePath": "C:\\Users\\grzes\\Desktop\\przygotowanie\\gemini\\gemini.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grzes\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\grzes\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

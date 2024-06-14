@@ -5329,11 +5329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grzes\\Desktop\\Zadanie10\\gemini\\gemini\\gemini.csproj",
+      "projectUniqueName": "C:\\Users\\grzes\\Desktop\\przygotowanie\\gemini\\gemini.csproj",
       "projectName": "gemini",
-      "projectPath": "C:\\Users\\grzes\\Desktop\\Zadanie10\\gemini\\gemini\\gemini.csproj",
+      "projectPath": "C:\\Users\\grzes\\Desktop\\przygotowanie\\gemini\\gemini.csproj",
       "packagesPath": "C:\\Users\\grzes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grzes\\Desktop\\Zadanie10\\gemini\\gemini\\obj\\",
+      "outputPath": "C:\\Users\\grzes\\Desktop\\przygotowanie\\gemini\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grzes\\AppData\\Roaming\\NuGet\\NuGet.Config"

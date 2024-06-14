@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gemini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07bf4ba08d67669c2cface8495e6e6b4a843fd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("gemini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gemini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
