@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gemini", "gemini\gemini.csproj", "{16A5349D-89EC-4EB5-8846-5A3C3DA1CDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A5349D-89EC-4EB5-8846-5A3C3DA1CDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A5349D-89EC-4EB5-8846-5A3C3DA1CDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A5349D-89EC-4EB5-8846-5A3C3DA1CDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A5349D-89EC-4EB5-8846-5A3C3DA1CDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
